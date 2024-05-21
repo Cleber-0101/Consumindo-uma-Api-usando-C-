@@ -1,0 +1,15 @@
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\bin\Debug\net8.0\ScreenSoundsConsumoApi.exe
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\bin\Debug\net8.0\ScreenSoundsConsumoApi.deps.json
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\bin\Debug\net8.0\ScreenSoundsConsumoApi.runtimeconfig.json
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\bin\Debug\net8.0\ScreenSoundsConsumoApi.dll
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\bin\Debug\net8.0\ScreenSoundsConsumoApi.pdb
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\obj\Debug\net8.0\ScreenSoundsConsumoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\obj\Debug\net8.0\ScreenSoundsConsumoApi.AssemblyInfoInputs.cache
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\obj\Debug\net8.0\ScreenSoundsConsumoApi.AssemblyInfo.cs
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\obj\Debug\net8.0\ScreenSoundsConsumoApi.csproj.CoreCompileInputs.cache
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\obj\Debug\net8.0\ScreenSoundsConsumoApi.sourcelink.json
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\obj\Debug\net8.0\ScreenSoundsConsumoApi.dll
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\obj\Debug\net8.0\refint\ScreenSoundsConsumoApi.dll
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\obj\Debug\net8.0\ScreenSoundsConsumoApi.pdb
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\obj\Debug\net8.0\ScreenSoundsConsumoApi.genruntimeconfig.cache
+C:\ScreenSoundsConsumoApi\ScreenSoundsConsumoApi\obj\Debug\net8.0\ref\ScreenSoundsConsumoApi.dll
